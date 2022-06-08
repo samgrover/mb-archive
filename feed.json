@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2022/06/08/every-morning-i.html",
+				
+				"content_html": "<p>Every morning I come into the living room and sit on the sofa and my brain says, &ldquo;Wordle&rdquo;, so I&rsquo;m soon playing that game. This has been going on for months.</p>\n<p>Last week I went camping for three nights and I didn&rsquo;t think of Wordle a single time. The morning after I returned I went into the living room and sat on the sofa and my brain said, &ldquo;Wordle&rdquo;.</p>\n<p>It&rsquo;s crazy how much of a pattern recognizer and responder the brain is, and how it makes these long lasting habits. Break a pattern briefly, lose a habit briefly.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/d186ce7979.jpg\"><img src=\"https://samgrover.com/uploads/2022/d186ce7979.jpg\" alt=\"Screenshot showing Wordle word game stats. Played, 191. Win %, 99. Current Streak, 5. Max Streak, 75\"></a></p>\n<hr>\n<p>Upload images using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "Every morning I come into the living room and sit on the sofa and my brain says, \"Wordle\", so I'm soon playing that game. This has been going on for months.\n\nLast week I went camping for three nights and I didn't think of Wordle a single time. The morning after I returned I went into the living room and sat on the sofa and my brain said, \"Wordle\".\n\nIt's crazy how much of a pattern recognizer and responder the brain is, and how it makes these long lasting habits. Break a pattern briefly, lose a habit briefly.\n\n[![Screenshot showing Wordle word game stats. Played, 191. Win %, 99. Current Streak, 5. Max Streak, 75](https://samgrover.com/uploads/2022/d186ce7979.jpg)](https://samgrover.com/uploads/2022/d186ce7979.jpg)\n\n---\n\nUpload images using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2022-06-08T10:30:41-07:00",
+				"url": "https://samgrover.com/2022/06/08/every-morning-i.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2022/06/05/sunset-at-steamboat.html",
+				
+				"content_html": "<p>Sunset at Steamboat Rock</p>\n<p><a href=\"https://samgrover.com/uploads/2022/bdce3b546f.jpg\"><img src=\"https://samgrover.com/uploads/2022/bdce3b546f.jpg\" alt=\"\"></a></p>\n<hr>\n<p>Upload images using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "Sunset at Steamboat Rock\n\n[![](https://samgrover.com/uploads/2022/bdce3b546f.jpg)](https://samgrover.com/uploads/2022/bdce3b546f.jpg)\n\n---\n\nUpload images using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2022-06-05T19:10:56-07:00",
+				"url": "https://samgrover.com/2022/06/05/sunset-at-steamboat.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2022/05/31/once-id-made.html",
+				
+				"content_html": "<p>Once I&rsquo;d made <a href=\"https://samgrover.com/2022/05/28/for-todays-pjs.html\">the previous piece</a>, I kept imagining those little black rectangles in motion, so in today&rsquo;s <a href=\"https://p5js.org\">p5.js</a> exploration, I animated them.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<hr>\n<p>Upload images using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "Once I'd made [the previous piece](https://samgrover.com/2022/05/28/for-todays-pjs.html), I kept imagining those little black rectangles in motion, so in today's [p5.js](https://p5js.org) exploration, I animated them.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://f001.backblazeb2.com/file/com-samgrover-dropshare/mondrian-composition-in-color-a.mp4\" poster=\"https://f001.backblazeb2.com/file/com-samgrover-dropshare/mondrian-composition-in-color-a-poster.png\" preload=\"none\" width=\"1000\" height=\"1150\" alt=\"Animated generative art based on Piet Mondrian's Composition in Color A\"></video>\n\n---\n\nUpload images using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2022-05-31T11:56:03-07:00",
+				"url": "https://samgrover.com/2022/05/31/once-id-made.html",
+				"tags": ["p5js"]
+			},
+			{
 				"id": "http://samgrover.micro.blog/2022/05/28/for-todays-pjs.html",
 				
 				"content_html": "<p>For today&rsquo;s <a href=\"https://p5js.org\">p5.js</a> exercise I went with inspiration from an art piece, specifically, Piet Mondrian&rsquo;s <a href=\"https://www.wikiart.org/en/piet-mondrian/composition-in-color-a-1917\">Composition in Color A</a>.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/4d4ce6652c.png\"><img src=\"https://samgrover.com/uploads/2022/4d4ce6652c.png\" alt=\"\"></a></p>\n<hr>\n<p>Upload images using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
