@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2022/10/29/just-noticed-that.html",
+				
+				"content_html": "<p>Just noticed that my Obsidian notes folder was missing a lot of files. I use iCloud to sync it. According to Time Machine, the data loss happened almost two months ago. Restored from there to separate folder. About to work through identifying changes with git and restoring. Ugh.</p>\n",
+				"content_text": "Just noticed that my Obsidian notes folder was missing a lot of files. I use iCloud to sync it. According to Time Machine, the data loss happened almost two months ago. Restored from there to separate folder. About to work through identifying changes with git and restoring. Ugh.\n",
+				"date_published": "2022-10-29T11:34:28-07:00",
+				"url": "https://samgrover.com/2022/10/29/just-noticed-that.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2022/10/28/all-social-activities.html",
+				
+				"content_html": "<p>All social activities happen in bubbles. Even IRL. As long as a platform allows me to manage that bubble, I’m fine with it.</p>\n",
+				"content_text": "All social activities happen in bubbles. Even IRL. As long as a platform allows me to manage that bubble, I’m fine with it.\n",
+				"date_published": "2022-10-28T08:10:45-07:00",
+				"url": "https://samgrover.com/2022/10/28/all-social-activities.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2022/10/27/when-president-biden.html",
+				
+				"content_html": "<p>When President Biden visited Portland recently, his motorcade went down the road that&rsquo;s two blocks from our place. We were away at that time. So now, Mr. Momo, our indoor cat, who never leaves home, has been in closer proximity to POTUS than either of us will likely ever be 😐</p>\n",
+				"content_text": "When President Biden visited Portland recently, his motorcade went down the road that's two blocks from our place. We were away at that time. So now, Mr. Momo, our indoor cat, who never leaves home, has been in closer proximity to POTUS than either of us will likely ever be 😐\n",
+				"date_published": "2022-10-27T16:00:38-07:00",
+				"url": "https://samgrover.com/2022/10/27/when-president-biden.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2022/10/26/my-ipad-was.html",
+				
+				"content_html": "<p>My iPad was cold to the touch this morning. Then I started reading <a href=\"https://www.macstories.net/stories/stage-manager-ipados-16-1-review/\">Viticci&rsquo;s Stage Manager article</a>, enabled it for the first time, and started to play with it. Five minutes later my iPad was nice and warm. I like this feature!</p>\n",
+				"content_text": "My iPad was cold to the touch this morning. Then I started reading [Viticci's Stage Manager article](https://www.macstories.net/stories/stage-manager-ipados-16-1-review/), enabled it for the first time, and started to play with it. Five minutes later my iPad was nice and warm. I like this feature!\n",
+				"date_published": "2022-10-26T09:20:14-07:00",
+				"url": "https://samgrover.com/2022/10/26/my-ipad-was.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2022/10/24/happy-diwali.html",
+				
+				"content_html": "<p>Happy Diwali 🪔</p>\n",
+				"content_text": "Happy Diwali 🪔\n",
+				"date_published": "2022-10-24T14:01:27-07:00",
+				"url": "https://samgrover.com/2022/10/24/happy-diwali.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2022/10/23/yesterday-i-visited.html",
 				
-				"content_html": "<p>Yesterday I visited a couple of galleries after a long time.</p>\n<p>I got this gorgeous print by <a href=\"https://www.alicechristinewalker.com\">Alice Christine Walker</a> at <a href=\"https://www.blueskygallery.org\">Blue Sky</a>.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/239a6380f7.jpg\"><img src=\"https://samgrover.com/uploads/2022/239a6380f7.jpg\" alt=\"A colorful square photographic print enclosed in a clear plastic envelope.\"></a></p>\n<p>There was an exhibition there of some amazing huge prints.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/ee5514cb45.jpg\"><img src=\"https://samgrover.com/uploads/2022/ee5514cb45.jpg\" alt=\"A gallery wall with three large photographic prints mounted on it.\"></a></p>\n<p>I saw prints of the <a href=\"https://icantdescri.be/#/gravestones/\">Gravestones project</a> by my friend Isaac at Blue Sky. I had seen these online but prints are always so much better.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/1d6eeff557.jpg\"><img src=\"https://samgrover.com/uploads/2022/1d6eeff557.jpg\" alt=\"Two black and white matted prints enclosed in a clear plastic envelope.\"></a></p>\n<p>I also went over to <a href=\"https://www.blackfish.com\">Blackfish Gallery</a> where I saw <a href=\"https://idlehandsphoto.squarespace.com/new-events/fishbowl-ii-blackfish-gallery\">these cyanotypes</a> by my friend Kim. She is the featured artist this month.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/8c4af682d2.jpg\"><img src=\"https://samgrover.com/uploads/2022/8c4af682d2.jpg\" alt=\"A gallery window with several cyanotype prints mounted on a wall.\"></a></p>\n<hr>\n<p>Upload images using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
-				"content_text": "Yesterday I visited a couple of galleries after a long time.\n\nI got this gorgeous print by [Alice Christine Walker](https://www.alicechristinewalker.com) at [Blue Sky](https://www.blueskygallery.org).\n\n[![A colorful square photographic print enclosed in a clear plastic envelope.](https://samgrover.com/uploads/2022/239a6380f7.jpg)](https://samgrover.com/uploads/2022/239a6380f7.jpg)\n\nThere was an exhibition there of some amazing huge prints.\n\n[![A gallery wall with three large photographic prints mounted on it.](https://samgrover.com/uploads/2022/ee5514cb45.jpg)](https://samgrover.com/uploads/2022/ee5514cb45.jpg)\n\nI saw prints of the [Gravestones project](https://icantdescri.be/#/gravestones/) by my friend Isaac at Blue Sky. I had seen these online but prints are always so much better.\n\n[![Two black and white matted prints enclosed in a clear plastic envelope.](https://samgrover.com/uploads/2022/1d6eeff557.jpg)](https://samgrover.com/uploads/2022/1d6eeff557.jpg)\n\nI also went over to [Blackfish Gallery](https://www.blackfish.com) where I saw [these cyanotypes](https://idlehandsphoto.squarespace.com/new-events/fishbowl-ii-blackfish-gallery) by my friend Kim. She is the featured artist this month.\n\n[![A gallery window with several cyanotype prints mounted on a wall.](https://samgrover.com/uploads/2022/8c4af682d2.jpg)](https://samgrover.com/uploads/2022/8c4af682d2.jpg)\n\n---\n\nUpload images using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"content_html": "<p>Yesterday I visited a couple of galleries after a long time.</p>\n<p>I got this gorgeous 12&quot; x 12&quot; print by <a href=\"https://www.alicechristinewalker.com\">Alice Christine Walker</a> at <a href=\"https://www.blueskygallery.org\">Blue Sky</a>.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/239a6380f7.jpg\"><img src=\"https://samgrover.com/uploads/2022/239a6380f7.jpg\" alt=\"A colorful square photographic print enclosed in a clear plastic envelope.\"></a></p>\n<p>There was an exhibition there of some amazing huge prints.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/ee5514cb45.jpg\"><img src=\"https://samgrover.com/uploads/2022/ee5514cb45.jpg\" alt=\"A gallery wall with three large photographic prints mounted on it.\"></a></p>\n<p>I saw prints of the <a href=\"https://icantdescri.be/#/gravestones/\">Gravestones project</a> by my friend Isaac at Blue Sky. I had seen these online but prints are always so much better.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/1d6eeff557.jpg\"><img src=\"https://samgrover.com/uploads/2022/1d6eeff557.jpg\" alt=\"Two black and white matted prints enclosed in a clear plastic envelope.\"></a></p>\n<p>I also went over to <a href=\"https://www.blackfish.com\">Blackfish Gallery</a> where I saw <a href=\"https://idlehandsphoto.squarespace.com/new-events/fishbowl-ii-blackfish-gallery\">these cyanotypes</a> by my friend Kim. She is the featured artist this month.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/8c4af682d2.jpg\"><img src=\"https://samgrover.com/uploads/2022/8c4af682d2.jpg\" alt=\"A gallery window with several cyanotype prints mounted on a wall.\"></a></p>\n<hr>\n<p>Upload images using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "Yesterday I visited a couple of galleries after a long time.\n\nI got this gorgeous 12\" x 12\" print by [Alice Christine Walker](https://www.alicechristinewalker.com) at [Blue Sky](https://www.blueskygallery.org).\n\n[![A colorful square photographic print enclosed in a clear plastic envelope.](https://samgrover.com/uploads/2022/239a6380f7.jpg)](https://samgrover.com/uploads/2022/239a6380f7.jpg)\n\nThere was an exhibition there of some amazing huge prints.\n\n[![A gallery wall with three large photographic prints mounted on it.](https://samgrover.com/uploads/2022/ee5514cb45.jpg)](https://samgrover.com/uploads/2022/ee5514cb45.jpg)\n\nI saw prints of the [Gravestones project](https://icantdescri.be/#/gravestones/) by my friend Isaac at Blue Sky. I had seen these online but prints are always so much better.\n\n[![Two black and white matted prints enclosed in a clear plastic envelope.](https://samgrover.com/uploads/2022/1d6eeff557.jpg)](https://samgrover.com/uploads/2022/1d6eeff557.jpg)\n\nI also went over to [Blackfish Gallery](https://www.blackfish.com) where I saw [these cyanotypes](https://idlehandsphoto.squarespace.com/new-events/fishbowl-ii-blackfish-gallery) by my friend Kim. She is the featured artist this month.\n\n[![A gallery window with several cyanotype prints mounted on a wall.](https://samgrover.com/uploads/2022/8c4af682d2.jpg)](https://samgrover.com/uploads/2022/8c4af682d2.jpg)\n\n---\n\nUpload images using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
 				"date_published": "2022-10-23T16:58:33-07:00",
 				"url": "https://samgrover.com/2022/10/23/yesterday-i-visited.html"
 			},
@@ -586,7 +626,7 @@
 				"id": "http://samgrover.micro.blog/2022/02/02/i-wish-digital.html",
 				
 				"content_html": "<p>I wish digital maps made this scale interactive. One ought to be able to stretch, shrink, rotate, and pan it anywhere on the map to actually be useful instead of just being static in a corner like on a paper map.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wish digital maps made this scale interactive. One ought to be able to stretch, shrink, rotate, and pan it anywhere on the map to actually be useful instead of just being static in a corner like on a paper map.\r\n\r\n<img src=\"uploads/2022/cc03eaa485.png\" width=\"600\" height=\"476\" alt=\"\" />\r\n\r\n",
+				"content_text": "I wish digital maps made this scale interactive. One ought to be able to stretch, shrink, rotate, and pan it anywhere on the map to actually be useful instead of just being static in a corner like on a paper map.\r\n\r\n<img src=\"https://samgrover.com/uploads/2022/cc03eaa485.png\" width=\"600\" height=\"476\" alt=\"\" />\r\n\r\n",
 				"date_published": "2022-02-02T18:30:48-07:00",
 				"url": "https://samgrover.com/2022/02/02/i-wish-digital.html"
 			},
@@ -1685,7 +1725,7 @@
 				"id": "http://samgrover.micro.blog/2020/12/01/rip-arecibo-observatory.html",
 				
 				"content_html": "<p><a href=\"https://www.nytimes.com/2020/12/01/science/space/arecibo-telescope-puerto-rico.html\">RIP Arecibo Observatory</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[RIP Arecibo Observatory](https://www.nytimes.com/2020/12/01/science/space/arecibo-telescope-puerto-rico.html).\n\n<img src=\"uploads/2020/1f16bb369d.png\" width=\"541\" height=\"600\" alt=\"\" />\n",
+				"content_text": "[RIP Arecibo Observatory](https://www.nytimes.com/2020/12/01/science/space/arecibo-telescope-puerto-rico.html).\n\n<img src=\"https://samgrover.com/uploads/2020/1f16bb369d.png\" width=\"541\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-01T10:17:33-07:00",
 				"url": "https://samgrover.com/2020/12/01/rip-arecibo-observatory.html"
 			},
@@ -2711,7 +2751,7 @@
 				"id": "http://samgrover.micro.blog/2020/02/06/one-downside-of.html",
 				
 				"content_html": "<p>One downside of the lovely Downlink app wallpapers is that I constantly get to see how sunny it is in California while it is super cloudy here in the Pacific NW.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One downside of the lovely Downlink app wallpapers is that I constantly get to see how sunny it is in California while it is super cloudy here in the Pacific NW.\r\n\n\n<img src=\"uploads/2020/465bbe8a78.jpg\" width=\"600\" height=\"417\" alt=\"\" />\n",
+				"content_text": "One downside of the lovely Downlink app wallpapers is that I constantly get to see how sunny it is in California while it is super cloudy here in the Pacific NW.\r\n\n\n<img src=\"https://samgrover.com/uploads/2020/465bbe8a78.jpg\" width=\"600\" height=\"417\" alt=\"\" />\n",
 				"date_published": "2020-02-06T10:41:23-07:00",
 				"url": "https://samgrover.com/2020/02/06/one-downside-of.html"
 			},
@@ -2847,7 +2887,7 @@
 				"id": "http://samgrover.micro.blog/2020/01/07/panorama-of-the.html",
 				"title": "🚀 Panorama of the dark side of the moon near Chang'e 4",
 				"content_html": "<p>I saw <a href=\"https://arstechnica.com/science/2020/01/chinas-far-side-lander-releases-data-high-resolution-images-of-the-moon/\">this article</a> about the <a href=\"https://en.wikipedia.org/wiki/Chang%27e_4\">Chang&rsquo;e 4</a> lander, followed the link to <a href=\"https://drive.google.com/drive/folders/1hWYi3vG2U547Nb1yTwXqsgKCDhaghL8j\">these files</a>, and used those to stitch this panorama of the dark side of the moon.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Update: I&rsquo;m aware that some parts are missing detail that is present in the original set. I did this real quick. Might fix those up later.</p>\n<p>Update 2: I didn&rsquo;t realize that these photos were taken at difernt times and represented a before and after view, so to speak. Here&rsquo;s another panorama that shows the view after the rover had wandered about a bit.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I saw [this article](https://arstechnica.com/science/2020/01/chinas-far-side-lander-releases-data-high-resolution-images-of-the-moon/) about the [Chang'e 4](https://en.wikipedia.org/wiki/Chang%27e_4) lander, followed the link to [these files](https://drive.google.com/drive/folders/1hWYi3vG2U547Nb1yTwXqsgKCDhaghL8j), and used those to stitch this panorama of the dark side of the moon.\n\n<a href=\"https://samgrover.com/uploads/2020/619730dd17.jpg\"><img src=\"uploads/2020/619730dd17.jpg\" width=\"600\" height=\"91\" alt=\"\" /></a>\n\nUpdate: I'm aware that some parts are missing detail that is present in the original set. I did this real quick. Might fix those up later.\n\nUpdate 2: I didn't realize that these photos were taken at difernt times and represented a before and after view, so to speak. Here's another panorama that shows the view after the rover had wandered about a bit.\n\n<a href=\"https://samgrover.com/uploads/2020/cb19942d43.jpg\"><img src=\"uploads/2020/cb19942d43.jpg\" width=\"600\" height=\"91\" alt=\"\" /></a>\n",
+				"content_text": "I saw [this article](https://arstechnica.com/science/2020/01/chinas-far-side-lander-releases-data-high-resolution-images-of-the-moon/) about the [Chang'e 4](https://en.wikipedia.org/wiki/Chang%27e_4) lander, followed the link to [these files](https://drive.google.com/drive/folders/1hWYi3vG2U547Nb1yTwXqsgKCDhaghL8j), and used those to stitch this panorama of the dark side of the moon.\n\n<a href=\"https://samgrover.com/uploads/2020/619730dd17.jpg\"><img src=\"https://samgrover.com/uploads/2020/619730dd17.jpg\" width=\"600\" height=\"91\" alt=\"\" /></a>\n\nUpdate: I'm aware that some parts are missing detail that is present in the original set. I did this real quick. Might fix those up later.\n\nUpdate 2: I didn't realize that these photos were taken at difernt times and represented a before and after view, so to speak. Here's another panorama that shows the view after the rover had wandered about a bit.\n\n<a href=\"https://samgrover.com/uploads/2020/cb19942d43.jpg\"><img src=\"https://samgrover.com/uploads/2020/cb19942d43.jpg\" width=\"600\" height=\"91\" alt=\"\" /></a>\n",
 				"date_published": "2020-01-07T15:04:00-07:00",
 				"url": "https://samgrover.com/2020/01/07/panorama-of-the.html"
 			},
@@ -2887,7 +2927,7 @@
 				"id": "http://samgrover.micro.blog/2019/12/28/what-team-i.html",
 				
 				"content_html": "<p>What team? I just want a folder that syncs, like it has, for I don&rsquo;t even recall how long.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What team? I just want a folder that syncs, like it has, for I don't even recall how long.\n\n<img src=\"uploads/2019/47757d9bce.jpg\" width=\"600\" height=\"271\" alt=\"\" />\n",
+				"content_text": "What team? I just want a folder that syncs, like it has, for I don't even recall how long.\n\n<img src=\"https://samgrover.com/uploads/2019/47757d9bce.jpg\" width=\"600\" height=\"271\" alt=\"\" />\n",
 				"date_published": "2019-12-28T19:46:10-07:00",
 				"url": "https://samgrover.com/2019/12/28/what-team-i.html"
 			},
@@ -2927,7 +2967,7 @@
 				"id": "http://samgrover.micro.blog/2019/12/12/a-handy-control.html",
 				
 				"content_html": "<p>A handy control in case you need to fine tune your zip code.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A handy control in case you need to fine tune your zip code.\n\n<img src=\"uploads/2019/21f735ae9b.jpg\" width=\"510\" height=\"174\" alt=\"\" />\n",
+				"content_text": "A handy control in case you need to fine tune your zip code.\n\n<img src=\"https://samgrover.com/uploads/2019/21f735ae9b.jpg\" width=\"510\" height=\"174\" alt=\"\" />\n",
 				"date_published": "2019-12-12T10:12:17-07:00",
 				"url": "https://samgrover.com/2019/12/12/a-handy-control.html"
 			},
@@ -2943,7 +2983,7 @@
 				"id": "http://samgrover.micro.blog/2019/12/03/se-portland-oregon.html",
 				
 				"content_html": "<p>SE Portland, Oregon. 2nd December, 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "SE Portland, Oregon. 2nd December, 2019.\n\n<img src=\"uploads/2019/6798839491.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "SE Portland, Oregon. 2nd December, 2019.\n\n<img src=\"https://samgrover.com/uploads/2019/6798839491.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2019-12-03T18:56:21-07:00",
 				"url": "https://samgrover.com/2019/12/03/se-portland-oregon.html"
 			},
@@ -2951,7 +2991,7 @@
 				"id": "http://samgrover.micro.blog/2019/12/03/great-now-you.html",
 				
 				"content_html": "<p>Great! Now you just gotta go and turn that preference on in all your seventeen Slacks :picard-facepalm: <a href=\"https://twitter.com/SlackHQ/status/1201955273667158023\">twitter.com/SlackHQ/s&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Great! Now you just gotta go and turn that preference on in all your seventeen Slacks :picard-facepalm: [twitter.com/SlackHQ/s...](https://twitter.com/SlackHQ/status/1201955273667158023)\n\n<img src=\"uploads/2019/cb9fd9799e.jpg\" width=\"600\" height=\"331\" alt=\"\" />\n",
+				"content_text": "Great! Now you just gotta go and turn that preference on in all your seventeen Slacks :picard-facepalm: [twitter.com/SlackHQ/s...](https://twitter.com/SlackHQ/status/1201955273667158023)\n\n<img src=\"https://samgrover.com/uploads/2019/cb9fd9799e.jpg\" width=\"600\" height=\"331\" alt=\"\" />\n",
 				"date_published": "2019-12-03T15:56:34-07:00",
 				"url": "https://samgrover.com/2019/12/03/great-now-you.html"
 			},
@@ -3111,7 +3151,7 @@
 				"id": "http://samgrover.micro.blog/2019/10/15/next-version-of.html",
 				
 				"content_html": "<p>Next version of iOS (13.2, not out yet) has a bunch of new emojis including many that relate to Indian culture. Diya, Sari, Hindu Temple, Auto Rickshaw. That&rsquo;s cool! Although that Sari emoji is really bad. Hope that gets fixed before release!</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://blog.emojipedia.org/first-look-new-emojis-in-ios-13-2/\">Source</a></p>\n",
-				"content_text": "Next version of iOS (13.2, not out yet) has a bunch of new emojis including many that relate to Indian culture. Diya, Sari, Hindu Temple, Auto Rickshaw. That's cool! Although that Sari emoji is really bad. Hope that gets fixed before release!\n\n<img src=\"uploads/2019/1e2f555e8a.jpg\" width=\"600\" height=\"486\" alt=\"\" />\n\n[Source](https://blog.emojipedia.org/first-look-new-emojis-in-ios-13-2/)\n",
+				"content_text": "Next version of iOS (13.2, not out yet) has a bunch of new emojis including many that relate to Indian culture. Diya, Sari, Hindu Temple, Auto Rickshaw. That's cool! Although that Sari emoji is really bad. Hope that gets fixed before release!\n\n<img src=\"https://samgrover.com/uploads/2019/1e2f555e8a.jpg\" width=\"600\" height=\"486\" alt=\"\" />\n\n[Source](https://blog.emojipedia.org/first-look-new-emojis-in-ios-13-2/)\n",
 				"date_published": "2019-10-15T14:28:00-07:00",
 				"url": "https://samgrover.com/2019/10/15/next-version-of.html"
 			},
@@ -3143,7 +3183,7 @@
 				"id": "http://samgrover.micro.blog/2019/10/06/221647.html",
 				
 				"content_html": "<p>😋</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "😋\n\n<a href=\"https://samgrover.com/uploads/2019/debd2fc81b.jpg\"><img src=\"uploads/2019/debd2fc81b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "😋\n\n<a href=\"https://samgrover.com/uploads/2019/debd2fc81b.jpg\"><img src=\"https://samgrover.com/uploads/2019/debd2fc81b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-06T22:16:47-07:00",
 				"url": "https://samgrover.com/2019/10/06/221647.html"
 			},
@@ -3167,7 +3207,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/28/t-a-moulton.html",
 				
 				"content_html": "<p>T. A. Moulton Barn, aka &ldquo;the most photographed barn in America&rdquo;. 19th September, 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "T. A. Moulton Barn, aka \"the most photographed barn in America\". 19th September, 2019.\n\n<img src=\"uploads/2019/2108d74368.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "T. A. Moulton Barn, aka \"the most photographed barn in America\". 19th September, 2019.\n\n<img src=\"https://samgrover.com/uploads/2019/2108d74368.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-09-28T14:34:11-07:00",
 				"url": "https://samgrover.com/2019/09/28/t-a-moulton.html"
 			},
@@ -3183,7 +3223,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/26/first-photo-with.html",
 				
 				"content_html": "<p>First photo with my new phone captures Olive’s reaction to a smartphone with three cameras.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First photo with my new phone captures Olive’s reaction to a smartphone with three cameras.\n\n<a href=\"https://samgrover.com/uploads/2019/f9f115b268.jpg\"><img src=\"uploads/2019/f9f115b268.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "First photo with my new phone captures Olive’s reaction to a smartphone with three cameras.\n\n<a href=\"https://samgrover.com/uploads/2019/f9f115b268.jpg\"><img src=\"https://samgrover.com/uploads/2019/f9f115b268.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-26T16:56:32-07:00",
 				"url": "https://samgrover.com/2019/09/26/first-photo-with.html"
 			},
@@ -3191,7 +3231,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/26/thats-a-really.html",
 				
 				"content_html": "<p>That&rsquo;s a really good price to have Sam Jackson call you a motherfucker. <a href=\"https://www.theverge.com/2019/9/25/20883751/amazon-alexa-voice-languages-natural-bi-lingual-frustration-support-new-features\">www.theverge.com/2019/9/25&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That's a really good price to have Sam Jackson call you a motherfucker. [www.theverge.com/2019/9/25...](https://www.theverge.com/2019/9/25/20883751/amazon-alexa-voice-languages-natural-bi-lingual-frustration-support-new-features)\n\n<img src=\"uploads/2019/5b07fe1eca.jpg\" width=\"600\" height=\"162\" alt=\"\" />\n",
+				"content_text": "That's a really good price to have Sam Jackson call you a motherfucker. [www.theverge.com/2019/9/25...](https://www.theverge.com/2019/9/25/20883751/amazon-alexa-voice-languages-natural-bi-lingual-frustration-support-new-features)\n\n<img src=\"https://samgrover.com/uploads/2019/5b07fe1eca.jpg\" width=\"600\" height=\"162\" alt=\"\" />\n",
 				"date_published": "2019-09-26T10:56:55-07:00",
 				"url": "https://samgrover.com/2019/09/26/thats-a-really.html"
 			},
@@ -3199,7 +3239,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/26/these-roses-dont.html",
 				
 				"content_html": "<p>These roses don&rsquo;t give up.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "These roses don't give up.\n\n<img src=\"uploads/2019/3b50bb4c7a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "These roses don't give up.\n\n<img src=\"https://samgrover.com/uploads/2019/3b50bb4c7a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-09-26T09:23:42-07:00",
 				"url": "https://samgrover.com/2019/09/26/these-roses-dont.html"
 			},
@@ -3207,7 +3247,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/25/panorama-at-antelope.html",
 				
 				"content_html": "<p>Panorama at Antelope Flats. 19th September, 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Panorama at Antelope Flats. 19th September, 2019.\n\n<img src=\"uploads/2019/02941827a0.jpg\" width=\"600\" height=\"150\" alt=\"\" />\n",
+				"content_text": "Panorama at Antelope Flats. 19th September, 2019.\n\n<img src=\"https://samgrover.com/uploads/2019/02941827a0.jpg\" width=\"600\" height=\"150\" alt=\"\" />\n",
 				"date_published": "2019-09-25T18:12:51-07:00",
 				"url": "https://samgrover.com/2019/09/25/panorama-at-antelope.html"
 			},
@@ -3223,7 +3263,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/25/the-screen-right.html",
 				
 				"content_html": "<p>The screen right after I redeemed a $100 gift card. Apple continues to shove Apple Music in my face across various apps/devices.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The screen right after I redeemed a $100 gift card. Apple continues to shove Apple Music in my face across various apps/devices.\n\n<img src=\"uploads/2019/71143010fc.jpg\" width=\"600\" height=\"420\" alt=\"\" />\n",
+				"content_text": "The screen right after I redeemed a $100 gift card. Apple continues to shove Apple Music in my face across various apps/devices.\n\n<img src=\"https://samgrover.com/uploads/2019/71143010fc.jpg\" width=\"600\" height=\"420\" alt=\"\" />\n",
 				"date_published": "2019-09-25T09:24:33-07:00",
 				"url": "https://samgrover.com/2019/09/25/the-screen-right.html"
 			},
@@ -3231,7 +3271,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/24/a-plane-lands.html",
 				
 				"content_html": "<p>A plane lands at Jackson Hole Airport. 17th September, 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A plane lands at Jackson Hole Airport. 17th September, 2019.\n\n<img src=\"uploads/2019/b52c325d1a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "A plane lands at Jackson Hole Airport. 17th September, 2019.\n\n<img src=\"https://samgrover.com/uploads/2019/b52c325d1a.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-09-24T19:13:08-07:00",
 				"url": "https://samgrover.com/2019/09/24/a-plane-lands.html"
 			},
@@ -3239,7 +3279,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/23/inferno-cone-at.html",
 				
 				"content_html": "<p>Inferno Cone at Craters of the Moon National Monument. Arco, Idaho. 16th September, 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Inferno Cone at Craters of the Moon National Monument. Arco, Idaho. 16th September, 2019.\n\n<img src=\"uploads/2019/048b3f7515.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Inferno Cone at Craters of the Moon National Monument. Arco, Idaho. 16th September, 2019.\n\n<img src=\"https://samgrover.com/uploads/2019/048b3f7515.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-09-23T17:48:56-07:00",
 				"url": "https://samgrover.com/2019/09/23/inferno-cone-at.html"
 			},
@@ -3247,7 +3287,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/23/and-the-award.html",
 				
 				"content_html": "<p>And the award for the shittiest dialog box ever on iOS goes to&hellip;</p>\n<!-- raw HTML omitted -->\n<p>For context, this is on my iPhone X which is running iOS 12.4.</p>\n",
-				"content_text": "And the award for the shittiest dialog box ever on iOS goes to...\n\n<img src=\"uploads/2019/efb2433285.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n\nFor context, this is on my iPhone X which is running iOS 12.4.\n",
+				"content_text": "And the award for the shittiest dialog box ever on iOS goes to...\n\n<img src=\"https://samgrover.com/uploads/2019/efb2433285.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n\nFor context, this is on my iPhone X which is running iOS 12.4.\n",
 				"date_published": "2019-09-23T11:15:00-07:00",
 				"url": "https://samgrover.com/2019/09/23/and-the-award.html"
 			},
@@ -3255,7 +3295,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/23/a-curious-jenni.html",
 				
 				"content_html": "<p>A curious Jenni.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A curious Jenni.\n\n<img src=\"uploads/2019/b73d89b402.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "A curious Jenni.\n\n<img src=\"https://samgrover.com/uploads/2019/b73d89b402.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-09-23T09:46:38-07:00",
 				"url": "https://samgrover.com/2019/09/23/a-curious-jenni.html"
 			},
@@ -3263,7 +3303,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/22/biking-along-the.html",
 				
 				"content_html": "<p>Biking along the mountains in the Grand Teton National Park was absolutely breathtaking.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Biking along the mountains in the Grand Teton National Park was absolutely breathtaking.\n\n<img src=\"uploads/2019/2e6ee086f6.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Biking along the mountains in the Grand Teton National Park was absolutely breathtaking.\n\n<img src=\"https://samgrover.com/uploads/2019/2e6ee086f6.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-09-22T12:05:38-07:00",
 				"url": "https://samgrover.com/2019/09/22/biking-along-the.html"
 			},
@@ -3311,7 +3351,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/09/everyday-i-set.html",
 				
 				"content_html": "<p>Everyday I set an alarm for around 6am on my Apple Watch. And yet…<!-- raw HTML omitted --><!-- raw HTML omitted -->P. S. Maybe this event will usher an actually smarter Siri era. One can only hope.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Everyday I set an alarm for around 6am on my Apple Watch. And yet…<br /><br />P. S. Maybe this event will usher an actually smarter Siri era. One can only hope.\n\n<a href=\"https://samgrover.com/uploads/2019/e1399dcdba.jpg\"><img src=\"uploads/2019/e1399dcdba.jpg\" width=\"277\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Everyday I set an alarm for around 6am on my Apple Watch. And yet…<br /><br />P. S. Maybe this event will usher an actually smarter Siri era. One can only hope.\n\n<a href=\"https://samgrover.com/uploads/2019/e1399dcdba.jpg\"><img src=\"https://samgrover.com/uploads/2019/e1399dcdba.jpg\" width=\"277\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-09T22:02:24-07:00",
 				"url": "https://samgrover.com/2019/09/09/everyday-i-set.html"
 			},
@@ -3319,7 +3359,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/04/once-again-its.html",
 				
 				"content_html": "<p>Once again it&rsquo;s the time of the year when I wake up at sunrise.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Once again it's the time of the year when I wake up at sunrise.\n\n<img src=\"uploads/2019/c9528abce3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Once again it's the time of the year when I wake up at sunrise.\n\n<img src=\"https://samgrover.com/uploads/2019/c9528abce3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-09-04T09:59:08-07:00",
 				"url": "https://samgrover.com/2019/09/04/once-again-its.html"
 			},
@@ -3327,7 +3367,7 @@
 				"id": "http://samgrover.micro.blog/2019/09/02/one-rose-on.html",
 				
 				"content_html": "<p>One rose on its branch is reaching for the sky.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One rose on its branch is reaching for the sky.\n\n<img src=\"uploads/2019/a8df1c561b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "One rose on its branch is reaching for the sky.\n\n<img src=\"https://samgrover.com/uploads/2019/a8df1c561b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-02T21:09:01-07:00",
 				"url": "https://samgrover.com/2019/09/02/one-rose-on.html"
 			},
@@ -3407,7 +3447,7 @@
 				"id": "http://samgrover.micro.blog/2019/08/07/relaxation-with-olive.html",
 				
 				"content_html": "<p>Relaxation with Olive. /cc <a href=\"https://micro.blog/macgenie\">@macgenie</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Relaxation with Olive. /cc [@macgenie](https://micro.blog/macgenie)\n\n<img src=\"uploads/2019/31dffce5c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Relaxation with Olive. /cc [@macgenie](https://micro.blog/macgenie)\n\n<img src=\"https://samgrover.com/uploads/2019/31dffce5c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-07T18:53:37-07:00",
 				"url": "https://samgrover.com/2019/08/07/relaxation-with-olive.html"
 			},
@@ -3423,7 +3463,7 @@
 				"id": "http://samgrover.micro.blog/2019/08/02/its-a-rainy.html",
 				
 				"content_html": "<p>It’s a rainy morning today but these are from a rainy morning last week.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a rainy morning today but these are from a rainy morning last week.\n\n<img src=\"uploads/2019/b1ad6b6c5b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It’s a rainy morning today but these are from a rainy morning last week.\n\n<img src=\"https://samgrover.com/uploads/2019/b1ad6b6c5b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-02T09:21:58-07:00",
 				"url": "https://samgrover.com/2019/08/02/its-a-rainy.html"
 			},
@@ -3439,7 +3479,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/27/nice-gradient-of.html",
 				
 				"content_html": "<p>Nice gradient of colors at sunset last night.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice gradient of colors at sunset last night.\n\n<img src=\"uploads/2019/8f5f0cfd75.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Nice gradient of colors at sunset last night.\n\n<img src=\"https://samgrover.com/uploads/2019/8f5f0cfd75.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-07-27T09:00:23-07:00",
 				"url": "https://samgrover.com/2019/07/27/nice-gradient-of.html"
 			},
@@ -3455,7 +3495,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/22/we-let-the.html",
 				
 				"content_html": "<p>We let the artichokes go to flower, and wow, they make really pretty flowers!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We let the artichokes go to flower, and wow, they make really pretty flowers!\n\n<img src=\"uploads/2019/db86eeea50.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "We let the artichokes go to flower, and wow, they make really pretty flowers!\n\n<img src=\"https://samgrover.com/uploads/2019/db86eeea50.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-22T08:19:41-07:00",
 				"url": "https://samgrover.com/2019/07/22/we-let-the.html"
 			},
@@ -3471,7 +3511,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/20/it-will-cost.html",
 				
 				"content_html": "<p>It will cost you countless hours and dollars to deal with identity theft and it will cost them $4.48.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It will cost you countless hours and dollars to deal with identity theft and it will cost them $4.48.\n\n<img src=\"uploads/2019/ca429609fa.jpg\" width=\"600\" height=\"183\" alt=\"\" />\n",
+				"content_text": "It will cost you countless hours and dollars to deal with identity theft and it will cost them $4.48.\n\n<img src=\"https://samgrover.com/uploads/2019/ca429609fa.jpg\" width=\"600\" height=\"183\" alt=\"\" />\n",
 				"date_published": "2019-07-20T12:06:51-07:00",
 				"url": "https://samgrover.com/2019/07/20/it-will-cost.html"
 			},
@@ -3479,7 +3519,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/16/its-been-a.html",
 				
 				"content_html": "<p>It&rsquo;s been a looking-at-clouds kinda day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's been a looking-at-clouds kinda day.\n\n<img src=\"uploads/2019/ab09074738.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "It's been a looking-at-clouds kinda day.\n\n<img src=\"https://samgrover.com/uploads/2019/ab09074738.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-07-16T17:32:48-07:00",
 				"url": "https://samgrover.com/2019/07/16/its-been-a.html"
 			},
@@ -3487,7 +3527,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/14/you-turned-up.html",
 				
 				"content_html": "<p>You turned up the volume when you were watching a video on your always-on iMac in your home office. Later you left for somewhere and now others have to deal with loud sounds whenever a notification happens. Keyboard Maestro to the rescue!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "You turned up the volume when you were watching a video on your always-on iMac in your home office. Later you left for somewhere and now others have to deal with loud sounds whenever a notification happens. Keyboard Maestro to the rescue!\n\n<img src=\"uploads/2019/869ea6d523.jpg\" width=\"600\" height=\"296\" alt=\"\" />\n",
+				"content_text": "You turned up the volume when you were watching a video on your always-on iMac in your home office. Later you left for somewhere and now others have to deal with loud sounds whenever a notification happens. Keyboard Maestro to the rescue!\n\n<img src=\"https://samgrover.com/uploads/2019/869ea6d523.jpg\" width=\"600\" height=\"296\" alt=\"\" />\n",
 				"date_published": "2019-07-14T10:44:00-07:00",
 				"url": "https://samgrover.com/2019/07/14/you-turned-up.html"
 			},
@@ -3495,7 +3535,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/09/woodburn-premium-outlets.html",
 				
 				"content_html": "<p>Woodburn Premium Outlets. Woodburn, Oregon. 6th July, 2019.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Woodburn Premium Outlets. Woodburn, Oregon. 6th July, 2019.\n\n<img src=\"uploads/2019/9156393877.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Woodburn Premium Outlets. Woodburn, Oregon. 6th July, 2019.\n\n<img src=\"https://samgrover.com/uploads/2019/9156393877.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-07-09T21:02:24-07:00",
 				"url": "https://samgrover.com/2019/07/09/woodburn-premium-outlets.html"
 			},
@@ -3503,7 +3543,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/08/every-time-i.html",
 				
 				"content_html": "<p>Every time I start iTunes. For over a year. Because I cancelled subscriptions.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every time I start iTunes. For over a year. Because I cancelled subscriptions.\n\n<img src=\"uploads/2019/88b0f10942.jpg\" width=\"600\" height=\"351\" alt=\"\" />\n",
+				"content_text": "Every time I start iTunes. For over a year. Because I cancelled subscriptions.\n\n<img src=\"https://samgrover.com/uploads/2019/88b0f10942.jpg\" width=\"600\" height=\"351\" alt=\"\" />\n",
 				"date_published": "2019-07-08T20:17:13-07:00",
 				"url": "https://samgrover.com/2019/07/08/every-time-i.html"
 			},
@@ -3511,7 +3551,7 @@
 				"id": "http://samgrover.micro.blog/2019/07/08/someday-she-will.html",
 				
 				"content_html": "<p>Someday she will be a master gardener.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someday she will be a master gardener.\n\n<img src=\"uploads/2019/bf4858729e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Someday she will be a master gardener.\n\n<img src=\"https://samgrover.com/uploads/2019/bf4858729e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-07-08T18:12:53-07:00",
 				"url": "https://samgrover.com/2019/07/08/someday-she-will.html"
 			},
@@ -3527,7 +3567,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/25/sunday-was-new.html",
 				
 				"content_html": "<p>Sunday was new bike day 🙂<!-- raw HTML omitted --><!-- raw HTML omitted -->📷 @jennijelsing</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sunday was new bike day 🙂<br /><br />📷 @jennijelsing\n\n<a href=\"https://samgrover.com/uploads/2019/64436e11e6.jpg\"><img src=\"uploads/2019/64436e11e6.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Sunday was new bike day 🙂<br /><br />📷 @jennijelsing\n\n<a href=\"https://samgrover.com/uploads/2019/64436e11e6.jpg\"><img src=\"https://samgrover.com/uploads/2019/64436e11e6.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-06-25T07:21:29-07:00",
 				"url": "https://samgrover.com/2019/06/25/sunday-was-new.html"
 			},
@@ -3543,7 +3583,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/15/i-think-this.html",
 				
 				"content_html": "<p>I think this plant was supposed to have purple roses but it seems to only produce them selectively.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think this plant was supposed to have purple roses but it seems to only produce them selectively.\n\n<img src=\"uploads/2019/343613812e.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I think this plant was supposed to have purple roses but it seems to only produce them selectively.\n\n<img src=\"https://samgrover.com/uploads/2019/343613812e.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-15T18:50:00-07:00",
 				"url": "https://samgrover.com/2019/06/15/i-think-this.html"
 			},
@@ -3551,7 +3591,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/15/someone-is-not.html",
 				
 				"content_html": "<p>Someone is not happy about this situation.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someone is not happy about this situation.\n\n<img src=\"uploads/2019/16cd9dc647.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Someone is not happy about this situation.\n\n<img src=\"https://samgrover.com/uploads/2019/16cd9dc647.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-15T17:55:42-07:00",
 				"url": "https://samgrover.com/2019/06/15/someone-is-not.html"
 			},
@@ -3559,7 +3599,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/15/neighbors.html",
 				
 				"content_html": "<p>Neighbors.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Neighbors.\n\n<img src=\"uploads/2019/454120f516.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "Neighbors.\n\n<img src=\"https://samgrover.com/uploads/2019/454120f516.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2019-06-15T16:32:12-07:00",
 				"url": "https://samgrover.com/2019/06/15/neighbors.html"
 			},
@@ -3567,7 +3607,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/14/doggo-in-sunbeam.html",
 				
 				"content_html": "<p>Doggo in sunbeam.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Doggo in sunbeam.\n\n<a href=\"https://samgrover.com/uploads/2019/27b1cbc3be.jpg\"><img src=\"uploads/2019/27b1cbc3be.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Doggo in sunbeam.\n\n<a href=\"https://samgrover.com/uploads/2019/27b1cbc3be.jpg\"><img src=\"https://samgrover.com/uploads/2019/27b1cbc3be.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-06-14T19:58:32-07:00",
 				"url": "https://samgrover.com/2019/06/14/doggo-in-sunbeam.html"
 			},
@@ -3583,7 +3623,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/08/did-my-biggest.html",
 				
 				"content_html": "<p>Did my biggest hike today. 3.5 miles, 2800 ft elevation, and back. This was about halfway up. Photo of our group by a friendly hiker.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Did my biggest hike today. 3.5 miles, 2800 ft elevation, and back. This was about halfway up. Photo of our group by a friendly hiker.\n\n<a href=\"https://samgrover.com/uploads/2019/dee9d9a440.jpg\"><img src=\"uploads/2019/dee9d9a440.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Did my biggest hike today. 3.5 miles, 2800 ft elevation, and back. This was about halfway up. Photo of our group by a friendly hiker.\n\n<a href=\"https://samgrover.com/uploads/2019/dee9d9a440.jpg\"><img src=\"https://samgrover.com/uploads/2019/dee9d9a440.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-06-08T19:07:45-07:00",
 				"url": "https://samgrover.com/2019/06/08/did-my-biggest.html"
 			},
@@ -3591,7 +3631,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/07/new-bike-lanes.html",
 				
 				"content_html": "<p>New bike lanes on Foster looking really nice. Sky is being all moody.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "New bike lanes on Foster looking really nice. Sky is being all moody.\n\n<a href=\"https://samgrover.com/uploads/2019/c87fad1453.jpg\"><img src=\"uploads/2019/c87fad1453.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "New bike lanes on Foster looking really nice. Sky is being all moody.\n\n<a href=\"https://samgrover.com/uploads/2019/c87fad1453.jpg\"><img src=\"https://samgrover.com/uploads/2019/c87fad1453.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-06-07T17:56:37-07:00",
 				"url": "https://samgrover.com/2019/06/07/new-bike-lanes.html"
 			},
@@ -3599,7 +3639,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/07/spring-in-the.html",
 				
 				"content_html": "<p>Spring in the neighborhood.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Spring in the neighborhood.\n\n<a href=\"https://samgrover.com/uploads/2019/079a53f03b.jpg\"><img src=\"uploads/2019/079a53f03b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Spring in the neighborhood.\n\n<a href=\"https://samgrover.com/uploads/2019/079a53f03b.jpg\"><img src=\"https://samgrover.com/uploads/2019/079a53f03b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-06-07T17:55:48-07:00",
 				"url": "https://samgrover.com/2019/06/07/spring-in-the.html"
 			},
@@ -3607,7 +3647,7 @@
 				"id": "http://samgrover.micro.blog/2019/06/07/at-c-bar.html",
 				
 				"content_html": "<p>At C Bar a few days ago.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "At C Bar a few days ago.\n\n<a href=\"https://samgrover.com/uploads/2019/03ed34d15f.jpg\"><img src=\"uploads/2019/03ed34d15f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "At C Bar a few days ago.\n\n<a href=\"https://samgrover.com/uploads/2019/03ed34d15f.jpg\"><img src=\"https://samgrover.com/uploads/2019/03ed34d15f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-06-07T17:54:51-07:00",
 				"url": "https://samgrover.com/2019/06/07/at-c-bar.html"
 			},
@@ -3639,7 +3679,7 @@
 				"id": "http://samgrover.micro.blog/2019/05/27/sunset-on-foster.html",
 				
 				"content_html": "<p>Sunset on Foster Road. Portland, Oregon. 26th May, 2019.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sunset on Foster Road. Portland, Oregon. 26th May, 2019.\n\n<a href=\"https://samgrover.com/uploads/2019/ef35b9a504.jpg\"><img src=\"uploads/2019/ef35b9a504.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Sunset on Foster Road. Portland, Oregon. 26th May, 2019.\n\n<a href=\"https://samgrover.com/uploads/2019/ef35b9a504.jpg\"><img src=\"https://samgrover.com/uploads/2019/ef35b9a504.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-05-27T15:47:02-07:00",
 				"url": "https://samgrover.com/2019/05/27/sunset-on-foster.html"
 			},
@@ -3647,7 +3687,7 @@
 				"id": "http://samgrover.micro.blog/2019/05/26/we-made-a.html",
 				
 				"content_html": "<p>We made a raised gardening bed last weekend, filled it with dirt yesterday, and Jenni planted yummies today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "We made a raised gardening bed last weekend, filled it with dirt yesterday, and Jenni planted yummies today.\n\n<a href=\"https://samgrover.com/uploads/2019/b596b351fe.jpg\"><img src=\"uploads/2019/b596b351fe.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "We made a raised gardening bed last weekend, filled it with dirt yesterday, and Jenni planted yummies today.\n\n<a href=\"https://samgrover.com/uploads/2019/b596b351fe.jpg\"><img src=\"https://samgrover.com/uploads/2019/b596b351fe.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-05-26T21:16:09-07:00",
 				"url": "https://samgrover.com/2019/05/26/we-made-a.html",
 				"tags": ["Home Improvement"]
@@ -3689,7 +3729,7 @@
 				"id": "http://samgrover.micro.blog/2019/05/01/this-new-composite.html",
 				
 				"content_html": "<p>This new composite photo of the Large Magellanic Cloud created by amateur astronomers is gorgeous! <a href=\"https://lowell.edu/astroalert-french-amateur-astronomers-take-a-1060-hour-image/\">lowell.edu/astroaler&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This new composite photo of the Large Magellanic Cloud created by amateur astronomers is gorgeous! [lowell.edu/astroaler...](https://lowell.edu/astroalert-french-amateur-astronomers-take-a-1060-hour-image/)\n\n<img src=\"uploads/2019/b91c8128ee.jpg\" width=\"600\" height=\"591\" alt=\"\" />\n",
+				"content_text": "This new composite photo of the Large Magellanic Cloud created by amateur astronomers is gorgeous! [lowell.edu/astroaler...](https://lowell.edu/astroalert-french-amateur-astronomers-take-a-1060-hour-image/)\n\n<img src=\"https://samgrover.com/uploads/2019/b91c8128ee.jpg\" width=\"600\" height=\"591\" alt=\"\" />\n",
 				"date_published": "2019-05-01T15:39:57-07:00",
 				"url": "https://samgrover.com/2019/05/01/this-new-composite.html"
 			},
@@ -3713,7 +3753,7 @@
 				"id": "http://samgrover.micro.blog/2019/04/25/its-that-time.html",
 				
 				"content_html": "<p>It&rsquo;s that time of the year in the neighborhood.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It's that time of the year in the neighborhood.\n\n<a href=\"https://samgrover.com/uploads/2019/da87684250.jpg\"><img src=\"uploads/2019/da87684250.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "It's that time of the year in the neighborhood.\n\n<a href=\"https://samgrover.com/uploads/2019/da87684250.jpg\"><img src=\"https://samgrover.com/uploads/2019/da87684250.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-25T08:27:00-07:00",
 				"url": "https://samgrover.com/2019/04/25/its-that-time.html"
 			},
@@ -3729,7 +3769,7 @@
 				"id": "http://samgrover.micro.blog/2019/04/20/got-some-yard.html",
 				
 				"content_html": "<p>Got some yard work done on this lovely day.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Got some yard work done on this lovely day.\n\n<a href=\"https://samgrover.com/uploads/2019/8134b319dc.jpg\"><img src=\"uploads/2019/8134b319dc.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Got some yard work done on this lovely day.\n\n<a href=\"https://samgrover.com/uploads/2019/8134b319dc.jpg\"><img src=\"https://samgrover.com/uploads/2019/8134b319dc.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-20T19:56:40-07:00",
 				"url": "https://samgrover.com/2019/04/20/got-some-yard.html"
 			},
@@ -3737,7 +3777,7 @@
 				"id": "http://samgrover.micro.blog/2019/04/17/a-short-break.html",
 				
 				"content_html": "<p>A short break on a muddy spot. From a few weeks ago.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A short break on a muddy spot. From a few weeks ago.\n\n<a href=\"https://samgrover.com/uploads/2019/ed5ff8e94e.jpg\"><img src=\"uploads/2019/ed5ff8e94e.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "A short break on a muddy spot. From a few weeks ago.\n\n<a href=\"https://samgrover.com/uploads/2019/ed5ff8e94e.jpg\"><img src=\"https://samgrover.com/uploads/2019/ed5ff8e94e.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-17T08:40:13-07:00",
 				"url": "https://samgrover.com/2019/04/17/a-short-break.html"
 			},
@@ -3762,7 +3802,7 @@
 				"id": "http://samgrover.micro.blog/2019/04/12/its-that-time.html",
 				
 				"content_html": "<p>It’s that time of the biennial.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It’s that time of the biennial.\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/1a4d7314ad.jpg\"><img src=\"uploads/2019/1a4d7314ad.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "It’s that time of the biennial.\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/1a4d7314ad.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/1a4d7314ad.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-12T06:41:59-07:00",
 				"url": "https://samgrover.com/2019/04/12/its-that-time.html"
 			},
@@ -3770,7 +3810,7 @@
 				"id": "http://samgrover.micro.blog/2019/04/11/when-rain-gave.html",
 				
 				"content_html": "<p>When rain gave way to the setting Sun,<!-- raw HTML omitted -->briefly the other day<!-- raw HTML omitted --><!-- raw HTML omitted -->😍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "When rain gave way to the setting Sun,<br />briefly the other day<br /><br />😍\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/c618fa9f8c.jpg\"><img src=\"uploads/2019/c618fa9f8c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "When rain gave way to the setting Sun,<br />briefly the other day<br /><br />😍\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/c618fa9f8c.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/c618fa9f8c.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-11T19:42:46-07:00",
 				"url": "https://samgrover.com/2019/04/11/when-rain-gave.html"
 			},
@@ -3794,7 +3834,7 @@
 				"id": "http://samgrover.micro.blog/2019/04/06/who-doesnt-like.html",
 				
 				"content_html": "<p>Who doesn’t like a nice sunbeam on a cool spring day?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Who doesn’t like a nice sunbeam on a cool spring day?\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/e5b93fc35a.jpg\"><img src=\"uploads/2019/e5b93fc35a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Who doesn’t like a nice sunbeam on a cool spring day?\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/e5b93fc35a.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/e5b93fc35a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-06T22:28:31-07:00",
 				"url": "https://samgrover.com/2019/04/06/who-doesnt-like.html"
 			},
@@ -3802,7 +3842,7 @@
 				"id": "http://samgrover.micro.blog/2019/04/06/194702.html",
 				
 				"content_html": "<p>🙋‍♀️🌸</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🙋‍♀️🌸\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/7ed322f74d.jpg\"><img src=\"uploads/2019/7ed322f74d.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "🙋‍♀️🌸\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/7ed322f74d.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/7ed322f74d.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-06T19:47:02-07:00",
 				"url": "https://samgrover.com/2019/04/06/194702.html"
 			},
@@ -3810,7 +3850,7 @@
 				"id": "http://samgrover.micro.blog/2019/03/30/it-was-a.html",
 				
 				"content_html": "<p>It was a nice day for a hike.<!-- raw HTML omitted --><!-- raw HTML omitted -->St. Johns Bridge from Ridge Trail. Portland, Oregon. 30th March, 2019.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It was a nice day for a hike.<br /><br />St. Johns Bridge from Ridge Trail. Portland, Oregon. 30th March, 2019.\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/e78b94ce46.jpg\"><img src=\"uploads/2019/e78b94ce46.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "It was a nice day for a hike.<br /><br />St. Johns Bridge from Ridge Trail. Portland, Oregon. 30th March, 2019.\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/e78b94ce46.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/e78b94ce46.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-03-30T18:10:03-07:00",
 				"url": "https://samgrover.com/2019/03/30/it-was-a.html"
 			},
@@ -3818,7 +3858,7 @@
 				"id": "http://samgrover.micro.blog/2019/03/30/stop.html",
 				
 				"content_html": "<p>Stop. 🌥.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Stop. 🌥.\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/e358431f7a.jpg\"><img src=\"uploads/2019/e358431f7a.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Stop. 🌥.\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/e358431f7a.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/e358431f7a.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-03-30T11:39:41-07:00",
 				"url": "https://samgrover.com/2019/03/30/stop.html"
 			},
@@ -3842,7 +3882,7 @@
 				"id": "http://samgrover.micro.blog/2019/03/27/ha-ha-ha.html",
 				
 				"content_html": "<p>Ha ha ha! This is awesome: <a href=\"https://twitter.com/JoannaStern/status/1110916478130364416\">twitter.com/JoannaSte&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ha ha ha! This is awesome: [twitter.com/JoannaSte...](https://twitter.com/JoannaStern/status/1110916478130364416)\n\n<img src=\"uploads/2019/9ad37266a1.jpg\" width=\"597\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ha ha ha! This is awesome: [twitter.com/JoannaSte...](https://twitter.com/JoannaStern/status/1110916478130364416)\n\n<img src=\"https://samgrover.micro.blog/uploads/2019/9ad37266a1.jpg\" width=\"597\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-27T13:52:57-07:00",
 				"url": "https://samgrover.com/2019/03/27/ha-ha-ha.html"
 			},
@@ -3867,7 +3907,7 @@
 				"id": "http://samgrover.micro.blog/2019/03/24/lazy-sunday-olive.html",
 				
 				"content_html": "<p>Lazy Sunday Olive</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lazy Sunday Olive\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/3dd92411bc.jpg\"><img src=\"uploads/2019/3dd92411bc.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Lazy Sunday Olive\n\n<a href=\"http://samgrover.micro.blog/uploads/2019/3dd92411bc.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/3dd92411bc.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-03-24T12:51:38-07:00",
 				"url": "https://samgrover.com/2019/03/24/lazy-sunday-olive.html"
 			},
@@ -3923,7 +3963,7 @@
 				"id": "http://samgrover.micro.blog/2019/03/07/family-selfie.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Family selfie 🥰</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/dc9fbca4c6.jpg\"><img src=\"uploads/2019/dc9fbca4c6.jpg\" width=\"599\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFamily selfie 🥰\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/dc9fbca4c6.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/dc9fbca4c6.jpg\" width=\"599\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFamily selfie 🥰\n\n",
 				"date_published": "2019-03-07T10:26:46-07:00",
 				"url": "https://samgrover.com/2019/03/07/family-selfie.html"
 			},
@@ -3939,7 +3979,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/28/i-hope-next.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I hope next time this challenge is not for the shortest month of the year 😅</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/4a0c7df79f.jpg\"><img src=\"uploads/2019/4a0c7df79f.jpg\" width=\"426\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nI hope next time this challenge is not for the shortest month of the year 😅\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/4a0c7df79f.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/4a0c7df79f.jpg\" width=\"426\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nI hope next time this challenge is not for the shortest month of the year 😅\n\n",
 				"date_published": "2019-02-28T18:36:28-07:00",
 				"url": "https://samgrover.com/2019/02/28/i-hope-next.html"
 			},
@@ -3963,7 +4003,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/22/mt-tabor-park.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Mt. Tabor Park. Portland, Oregon. 20th February, 2019.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/7cadc74d64.jpg\"><img src=\"uploads/2019/7cadc74d64.jpg\" width=\"399\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nMt. Tabor Park. Portland, Oregon. 20th February, 2019.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/7cadc74d64.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/7cadc74d64.jpg\" width=\"399\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nMt. Tabor Park. Portland, Oregon. 20th February, 2019.\n\n",
 				"date_published": "2019-02-22T09:36:23-07:00",
 				"url": "https://samgrover.com/2019/02/22/mt-tabor-park.html"
 			},
@@ -3979,7 +4019,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/21/150447.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>🌤</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/fdd474c4f0.jpg\"><img src=\"uploads/2019/fdd474c4f0.jpg\" width=\"600\" height=\"400\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n🌤\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/fdd474c4f0.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/fdd474c4f0.jpg\" width=\"600\" height=\"400\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n🌤\n\n",
 				"date_published": "2019-02-21T16:04:47-07:00",
 				"url": "https://samgrover.com/2019/02/21/150447.html"
 			},
@@ -3987,7 +4027,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/21/mt-tabor-park.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Mt. Tabor Park. Portland, Oregon. 20th February, 2019.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/e1a6543993.jpg\"><img src=\"uploads/2019/e1a6543993.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nMt. Tabor Park. Portland, Oregon. 20th February, 2019.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/e1a6543993.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/e1a6543993.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nMt. Tabor Park. Portland, Oregon. 20th February, 2019.\n\n",
 				"date_published": "2019-02-21T11:57:23-07:00",
 				"url": "https://samgrover.com/2019/02/21/mt-tabor-park.html"
 			},
@@ -4011,7 +4051,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/13/dear-apple-i.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Dear <a href=\"https://micro.blog/Apple\">@Apple</a>, I fixed this for you.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/4f08c54ff2.jpg\"><img src=\"uploads/2019/4f08c54ff2.jpg\" width=\"600\" height=\"184\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nDear [@Apple](https://micro.blog/Apple), I fixed this for you.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/4f08c54ff2.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/4f08c54ff2.jpg\" width=\"600\" height=\"184\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nDear [@Apple](https://micro.blog/Apple), I fixed this for you.\n\n",
 				"date_published": "2019-02-13T15:47:07-07:00",
 				"url": "https://samgrover.com/2019/02/13/dear-apple-i.html"
 			},
@@ -4019,7 +4059,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/13/woodstock-portland-oregon.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Woodstock, Portland, Oregon. 10th February, 2018.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/2939ab5984.jpg\"><img src=\"uploads/2019/2939ab5984.jpg\" width=\"399\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nWoodstock, Portland, Oregon. 10th February, 2018.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/2939ab5984.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/2939ab5984.jpg\" width=\"399\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nWoodstock, Portland, Oregon. 10th February, 2018.\n\n",
 				"date_published": "2019-02-13T12:32:36-07:00",
 				"url": "https://samgrover.com/2019/02/13/woodstock-portland-oregon.html"
 			},
@@ -4027,7 +4067,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/10/south-tabor-portland.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>South Tabor, Portland, Oregon. 6th February, 2018.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/6fffd92a46.jpg\"><img src=\"uploads/2019/6fffd92a46.jpg\" width=\"400\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSouth Tabor, Portland, Oregon. 6th February, 2018.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/6fffd92a46.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/6fffd92a46.jpg\" width=\"400\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSouth Tabor, Portland, Oregon. 6th February, 2018.\n\n",
 				"date_published": "2019-02-10T17:07:02-07:00",
 				"url": "https://samgrover.com/2019/02/10/south-tabor-portland.html"
 			},
@@ -4051,7 +4091,7 @@
 				"id": "http://samgrover.micro.blog/2019/02/01/im-glad-i.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I’m glad I made this crosscut sled. Just spent about an hour making 232 cuts for box joints on four such pieces 😅</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/09cfef1e61.jpg\"><img src=\"uploads/2019/09cfef1e61.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nI’m glad I made this crosscut sled. Just spent about an hour making 232 cuts for box joints on four such pieces 😅\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/09cfef1e61.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/09cfef1e61.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nI’m glad I made this crosscut sled. Just spent about an hour making 232 cuts for box joints on four such pieces 😅\n\n",
 				"date_published": "2019-02-01T15:55:18-07:00",
 				"url": "https://samgrover.com/2019/02/01/im-glad-i.html"
 			},
@@ -4059,7 +4099,7 @@
 				"id": "http://samgrover.micro.blog/2019/01/31/olive-wants-to.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Olive wants to help.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/d72ab88c7a.jpg\"><img src=\"uploads/2019/d72ab88c7a.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nOlive wants to help.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/d72ab88c7a.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/d72ab88c7a.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nOlive wants to help.\n\n",
 				"date_published": "2019-01-31T14:45:05-07:00",
 				"url": "https://samgrover.com/2019/01/31/olive-wants-to.html"
 			},
@@ -4067,7 +4107,7 @@
 				"id": "http://samgrover.micro.blog/2019/01/30/incredibly-foolhardy-of.html",
 				
 				"content_html": "<p>Incredibly foolhardy of Apple’s team to make the request. It is akin to reporting a leak in a bathroom at a cafe and being informed that one should write it in the notebook on the counter, for examination by someone at a later date. <a href=\"https://nyti.ms/2SgXWqG?smid=nytcore-ios-share\">nyti.ms/2SgXWqG</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Incredibly foolhardy of Apple’s team to make the request. It is akin to reporting a leak in a bathroom at a cafe and being informed that one should write it in the notebook on the counter, for examination by someone at a later date. [nyti.ms/2SgXWqG](https://nyti.ms/2SgXWqG?smid=nytcore-ios-share)\n\n<img src=\"uploads/2019/d0fc89c492.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "Incredibly foolhardy of Apple’s team to make the request. It is akin to reporting a leak in a bathroom at a cafe and being informed that one should write it in the notebook on the counter, for examination by someone at a later date. [nyti.ms/2SgXWqG](https://nyti.ms/2SgXWqG?smid=nytcore-ios-share)\n\n<img src=\"https://samgrover.micro.blog/uploads/2019/d0fc89c492.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2019-01-30T11:31:49-07:00",
 				"url": "https://samgrover.com/2019/01/30/incredibly-foolhardy-of.html"
 			},
@@ -4083,7 +4123,7 @@
 				"id": "http://samgrover.micro.blog/2019/01/29/fosterpowell-portland-oregon.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Foster-Powell. Portland, Oregon. 12th January, 2019.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/818f37e7bb.jpg\"><img src=\"uploads/2019/818f37e7bb.jpg\" width=\"399\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFoster-Powell. Portland, Oregon. 12th January, 2019.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/818f37e7bb.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/818f37e7bb.jpg\" width=\"399\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFoster-Powell. Portland, Oregon. 12th January, 2019.\n\n",
 				"date_published": "2019-01-28T20:22:50-07:00",
 				"url": "https://samgrover.com/2019/01/28/fosterpowell-portland-oregon.html"
 			},
@@ -4099,7 +4139,7 @@
 				"id": "http://samgrover.micro.blog/2019/01/26/foster-road-portland.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Foster Road. Portland, Oregon. 21st January, 2019.</p>\n",
-				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/6a38188444.jpg\"><img src=\"uploads/2019/6a38188444.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFoster Road. Portland, Oregon. 21st January, 2019.\n\n",
+				"content_text": "<a href=\"http://samgrover.micro.blog/uploads/2019/6a38188444.jpg\"><img src=\"https://samgrover.micro.blog/uploads/2019/6a38188444.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFoster Road. Portland, Oregon. 21st January, 2019.\n\n",
 				"date_published": "2019-01-25T20:23:21-07:00",
 				"url": "https://samgrover.com/2019/01/25/foster-road-portland.html"
 			},
@@ -4115,7 +4155,7 @@
 				"id": "http://samgrover.micro.blog/2019/01/24/stop-sign-messaging.html",
 				
 				"content_html": "<p>Stop sign messaging.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stop sign messaging.\n\n<img src=\"uploads/2019/96ac8a18a0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Stop sign messaging.\n\n<img src=\"https://samgrover.micro.blog/uploads/2019/96ac8a18a0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-24T16:54:04-07:00",
 				"url": "https://samgrover.com/2019/01/24/stop-sign-messaging.html"
 			},
@@ -4147,7 +4187,7 @@
 				"id": "http://samgrover.micro.blog/2019/01/18/uh-oh-is.html",
 				
 				"content_html": "<p>Uh oh. Is Apple getting desperate?!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Uh oh. Is Apple getting desperate?!\n\n<img src=\"uploads/2019/35cb20f8e9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Uh oh. Is Apple getting desperate?!\n\n<img src=\"https://samgrover.micro.blog/uploads/2019/35cb20f8e9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-18T16:12:38-07:00",
 				"url": "https://samgrover.com/2019/01/18/uh-oh-is.html"
 			},
@@ -4171,7 +4211,7 @@
 				"id": "http://samgrover.micro.blog/2017/05/08/essential-oil-diffuser.html",
 				
 				"content_html": "<p>Essential oil diffuser or voice activated assistant? 🤔 #whatisit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Essential oil diffuser or voice activated assistant? 🤔 #whatisit\n\n<img src=\"uploads/2017/2ce71d480f.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
+				"content_text": "Essential oil diffuser or voice activated assistant? 🤔 #whatisit\n\n<img src=\"http://samgrover.micro.blog/uploads/2017/2ce71d480f.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
 				"date_published": "2017-05-08T10:38:44-07:00",
 				"url": "https://samgrover.com/2017/05/08/essential-oil-diffuser.html"
 			},
