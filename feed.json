@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2022/11/03/todays-sunrise-a.html",
+				
+				"content_html": "<p>Todays sunrise. A minute before this it was all shades of pink.</p>\n<p><a href=\"https://samgrover.com/uploads/2022/836334d70f.jpg\"><img src=\"https://samgrover.com/uploads/2022/836334d70f.jpg\" alt=\"A view of the sunrise with colors going from golden yellow on the horizon to bright orange to dark orange with the silhouette of a tree in the foreground.\"></a></p>\n<hr>\n<p>Upload images using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "Todays sunrise. A minute before this it was all shades of pink.\n\n[![A view of the sunrise with colors going from golden yellow on the horizon to bright orange to dark orange with the silhouette of a tree in the foreground.](https://samgrover.com/uploads/2022/836334d70f.jpg)](https://samgrover.com/uploads/2022/836334d70f.jpg)\n\n---\n\nUpload images using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2022-11-03T19:32:39-07:00",
+				"url": "https://samgrover.com/2022/11/03/todays-sunrise-a.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2022/10/29/just-noticed-that.html",
 				
 				"content_html": "<p>Just noticed that my Obsidian notes folder was missing a lot of files. I use iCloud to sync it. According to Time Machine, the data loss happened almost two months ago. Restored from there to separate folder. About to work through identifying changes with git and restoring. Ugh.</p>\n",
