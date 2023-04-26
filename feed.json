@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2023/04/26/in-the-last.html",
+				
+				"content_html": "<p>In the last week I used ChatGPT to replace three text manipulation scripts I used on and off. And yes, I spent hours writing/maintaining those over the years.</p>\n<p>I also used it to aid in creating a new shell script.</p>\n<p>It was disgusting/wonderful how straightforward all that was.</p>\n",
+				"content_text": "In the last week I used ChatGPT to replace three text manipulation scripts I used on and off. And yes, I spent hours writing/maintaining those over the years.\n\nI also used it to aid in creating a new shell script.\n\nIt was disgusting/wonderful how straightforward all that was.\n",
+				"date_published": "2023-04-26T12:26:51-07:00",
+				"url": "https://samgrover.com/2023/04/26/in-the-last.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2023/04/20/new-version-of.html",
+				"title": "New version of Mimi Uploader is out 🎉",
+				"content_html": "<p>The latest version of Mimi Uploader is out. This one was a long time coming as the beta cycle started over two months ago. I just had several other things taking my time. Thank you for your patience.</p>\n<p>Here&rsquo;s what&rsquo;s new:</p>\n<ul>\n<li>Fix for alt text editor issue that caused editing text to go under the keyboard. Very annoying!</li>\n<li>Redesigned Help screen. Won&rsquo;t glare at you in dark mode anymore!</li>\n<li>Bug fixes and performance improvements.</li>\n</ul>\n<p>Get it from the <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">App Store</a>!</p>\n",
+				"content_text": "The latest version of Mimi Uploader is out. This one was a long time coming as the beta cycle started over two months ago. I just had several other things taking my time. Thank you for your patience.\n\nHere's what's new:\n\n- Fix for alt text editor issue that caused editing text to go under the keyboard. Very annoying!\n- Redesigned Help screen. Won't glare at you in dark mode anymore!\n- Bug fixes and performance improvements.\n\nGet it from the [App Store](https://apps.apple.com/us/app/mimi-uploader/id1484555696)!\n",
+				"date_published": "2023-04-20T15:19:27-07:00",
+				"url": "https://samgrover.com/2023/04/20/new-version-of.html",
+				"tags": ["Mimi Uploader"]
+			},
+			{
 				"id": "http://samgrover.micro.blog/2023/04/18/the-bespectacled-pnw.html",
 				
 				"content_html": "<p>The bespectacled PNW life</p>\n<p><a href=\"https://samgrover.com/uploads/2023/8d44759247.gif\"><img src=\"https://samgrover.com/uploads/2023/8d44759247.gif\" alt=\"An animated GIF from behind the left lens of spectacles being removed. It starts with showing blurry water droplets and a focused view but then transitions to a blurry view with focused droplets on the lens.\"></a></p>\n",
