@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2023/07/04/a-new-beta.html",
+				
+				"content_html": "<p>A new beta for Mimi Uploader is about to come out. The main update is an improvement to the alt text editing workflow. Now, as you add text to each image in a batch, there&rsquo;s some auto scrolling to make it convenient. Check it out in this video:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A new beta for Mimi Uploader is about to come out. The main update is an improvement to the alt text editing workflow. Now, as you add text to each image in a batch, there's some auto scrolling to make it convenient. Check it out in this video:\n\n<div style=\"padding:75% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/842340225?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Auto scrolling for alt text editing\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n",
+				"date_published": "2023-07-04T17:45:56-07:00",
+				"url": "https://samgrover.com/2023/07/04/a-new-beta.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2023/06/26/til-the-frustrating.html",
 				
 				"content_html": "<p>TIL, the frustrating way, that a Mac with FileVault can&rsquo;t be logged into remotely unless it is attached to a display.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://samgrover.micro.blog/2023/06/07/sunset-over-apple.html",
 				
-				"content_html": "<p><a href=\"https://samgrover.com/uploads/2023/9f9fee0637.jpg\"><img src=\"https://samgrover.com/uploads/2023/9f9fee0637.jpg\" alt=\"Golden grass in the foreground and Apple Park building in the distance, with a dramatic cloudy sky above. Everything is lit by the late evening sunlight.\"></a></p>\n<p>Sunset over Apple Park, as seen from the Steve Jobs Theater. 5th June, 2023.</p>\n<p>My heartiest gratitude to the people of Apple for their hospitality ❤️</p>\n",
-				"content_text": "[![Golden grass in the foreground and Apple Park building in the distance, with a dramatic cloudy sky above. Everything is lit by the late evening sunlight.](https://samgrover.com/uploads/2023/9f9fee0637.jpg)](https://samgrover.com/uploads/2023/9f9fee0637.jpg)\n\nSunset over Apple Park, as seen from the Steve Jobs Theater. 5th June, 2023.\n\nMy heartiest gratitude to the people of Apple for their hospitality ❤️\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/1406/2023/9f9fee0637.jpg\"><img src=\"https://cdn.uploads.micro.blog/1406/2023/9f9fee0637.jpg\" alt=\"Golden grass in the foreground and Apple Park building in the distance, with a dramatic cloudy sky above. Everything is lit by the late evening sunlight.\"></a></p>\n<p>Sunset over Apple Park, as seen from the Steve Jobs Theater. 5th June, 2023.</p>\n<p>My heartiest gratitude to the people of Apple for their hospitality ❤️</p>\n",
+				"content_text": "[![Golden grass in the foreground and Apple Park building in the distance, with a dramatic cloudy sky above. Everything is lit by the late evening sunlight.](https://cdn.uploads.micro.blog/1406/2023/9f9fee0637.jpg)](https://cdn.uploads.micro.blog/1406/2023/9f9fee0637.jpg)\n\nSunset over Apple Park, as seen from the Steve Jobs Theater. 5th June, 2023.\n\nMy heartiest gratitude to the people of Apple for their hospitality ❤️\n",
 				"date_published": "2023-06-07T08:43:29-07:00",
 				"url": "https://samgrover.com/2023/06/07/sunset-over-apple.html"
 			},
@@ -115,8 +123,8 @@
 			{
 				"id": "http://samgrover.micro.blog/2023/04/29/111208.html",
 				
-				"content_html": "<p><a href=\"https://samgrover.com/uploads/2023/712f946cac.jpg\"><img src=\"https://samgrover.com/uploads/2023/712f946cac.jpg\" alt=\"Sidewalk view of a bright orange house with the shadow of tree branches. On a window sit two cats looking at the camera. Two signs on the lawn in front say “Love”.\"></a></p>\n",
-				"content_text": "[![Sidewalk view of a bright orange house with the shadow of tree branches. On a window sit two cats looking at the camera. Two signs on the lawn in front say “Love”.](https://samgrover.com/uploads/2023/712f946cac.jpg)](https://samgrover.com/uploads/2023/712f946cac.jpg)\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/1406/2023/712f946cac.jpg\"><img src=\"https://cdn.uploads.micro.blog/1406/2023/712f946cac.jpg\" alt=\"Sidewalk view of a bright orange house with the shadow of tree branches. On a window sit two cats looking at the camera. Two signs on the lawn in front say “Love”.\"></a></p>\n",
+				"content_text": "[![Sidewalk view of a bright orange house with the shadow of tree branches. On a window sit two cats looking at the camera. Two signs on the lawn in front say “Love”.](https://cdn.uploads.micro.blog/1406/2023/712f946cac.jpg)](https://cdn.uploads.micro.blog/1406/2023/712f946cac.jpg)\n",
 				"date_published": "2023-04-29T11:12:08-07:00",
 				"url": "https://samgrover.com/2023/04/29/111208.html"
 			},
