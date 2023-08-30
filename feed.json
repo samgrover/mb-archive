@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2023/08/30/got-my-golden.html",
+				
+				"content_html": "<p>Got my golden shirt with <a href=\"https://cottonbureau.com/p/QVTAB9/shirt/forest-fire-bear\">Jenni&rsquo;s new design</a>!</p>\n<p><a href=\"https://samgrover.com/uploads/2023/70681d5c-54ca-4d61-b998-1083607220f7.jpg\"><img src=\"https://samgrover.com/uploads/2023/70681d5c-54ca-4d61-b998-1083607220f7.jpg\" alt=\"A selfie with me wearing a tshirt with a bear illustration on it.\"></a></p>\n",
+				"content_text": "Got my golden shirt with [Jenni's new design](https://cottonbureau.com/p/QVTAB9/shirt/forest-fire-bear)!\n\n[![A selfie with me wearing a tshirt with a bear illustration on it.](https://samgrover.com/uploads/2023/70681d5c-54ca-4d61-b998-1083607220f7.jpg)](https://samgrover.com/uploads/2023/70681d5c-54ca-4d61-b998-1083607220f7.jpg)\n",
+				"date_published": "2023-08-30T11:27:03-07:00",
+				"url": "https://samgrover.com/2023/08/30/got-my-golden.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2023/08/24/quoting-an-unsolicited.html",
+				
+				"content_html": "<p>Quoting an unsolicited email I got via LinkedIn:</p>\n<blockquote>\n<p>Engineers at the company work an average of roughly 45 hours/week; it is not a sweat shop like stereotypical gaming companies, but it is not a 9-5 job either.</p>\n</blockquote>\n<p>While many are fighting for progressive work environments in tech, regressive ones are not only out there, but are also proud of it.</p>\n",
+				"content_text": "Quoting an unsolicited email I got via LinkedIn:\n\n> Engineers at the company work an average of roughly 45 hours/week; it is not a sweat shop like stereotypical gaming companies, but it is not a 9-5 job either.\n\nWhile many are fighting for progressive work environments in tech, regressive ones are not only out there, but are also proud of it.\n",
+				"date_published": "2023-08-24T13:36:44-07:00",
+				"url": "https://samgrover.com/2023/08/24/quoting-an-unsolicited.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2023/08/23/congratulations-to-isro.html",
 				
-				"content_html": "<p>Congratulations to ISRO and India on the thrilling soft-landing of Chandrayaan-3 Mission lunar module 🎉</p>\n",
-				"content_text": "Congratulations to ISRO and India on the thrilling soft-landing of Chandrayaan-3 Mission lunar module 🎉\n",
+				"content_html": "<p>Congratulations to ISRO and India on the thrilling soft-landing of Chandrayaan-3 Mission lunar module 🎉</p>\n<p>Edited to add: <a href=\"https://www.scientificamerican.com/article/chandrayaan-3-makes-historic-touchdown-on-the-moon/\">Nice article</a> about the challenges, learnings, and other technical details in the landing of Chandrayaan-3.</p>\n",
+				"content_text": "Congratulations to ISRO and India on the thrilling soft-landing of Chandrayaan-3 Mission lunar module 🎉\n\nEdited to add: [Nice article](https://www.scientificamerican.com/article/chandrayaan-3-makes-historic-touchdown-on-the-moon/) about the challenges, learnings, and other technical details in the landing of Chandrayaan-3.\n",
 				"date_published": "2023-08-23T05:38:51-07:00",
 				"url": "https://samgrover.com/2023/08/23/congratulations-to-isro.html"
 			},
