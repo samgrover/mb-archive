@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2024/03/18/sharing-thoughts-with.html",
+				
+				"content_html": "<p>Sharing thoughts with my morning reading buddy.</p>\n<p><a href=\"https://samgrover.com/uploads/2024/1d5f6bb8-797d-44b9-b245-e5d487a01add.jpg\"><img src=\"https://samgrover.com/uploads/2024/1d5f6bb8-797d-44b9-b245-e5d487a01add.jpg\" alt=\"A cat lying on a green textured couch looks at a book held by a person, with bright sunlight coming through a window draped with sheer curtains.\"></a></p>\n",
+				"content_text": "Sharing thoughts with my morning reading buddy.\n\n[![A cat lying on a green textured couch looks at a book held by a person, with bright sunlight coming through a window draped with sheer curtains.](https://samgrover.com/uploads/2024/1d5f6bb8-797d-44b9-b245-e5d487a01add.jpg)](https://samgrover.com/uploads/2024/1d5f6bb8-797d-44b9-b245-e5d487a01add.jpg)\n",
+				"date_published": "2024-03-18T08:32:47-07:00",
+				"url": "https://samgrover.com/2024/03/18/sharing-thoughts-with.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2024/02/29/happy-leap-day.html",
 				
 				"content_html": "<p>Happy Leap Day! <a href=\"https://codeofmatt.com/list-of-2024-leap-day-bugs/\">Be safe out there!</a></p>\n",
@@ -49,8 +57,8 @@
 			{
 				"id": "http://samgrover.micro.blog/2024/02/12/110432.html",
 				
-				"content_html": "<p><a href=\"https://samgrover.com/uploads/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg\"><img src=\"https://samgrover.com/uploads/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg\" alt=\"A tabby cat resting on a patterned blanket with patches of light filtering through an object with circular cut-outs, casting a pattern of shadows over the scene.\"></a></p>\n",
-				"content_text": "[![A tabby cat resting on a patterned blanket with patches of light filtering through an object with circular cut-outs, casting a pattern of shadows over the scene.](https://samgrover.com/uploads/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg)](https://samgrover.com/uploads/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg)\n\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/1406/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg\"><img src=\"https://cdn.uploads.micro.blog/1406/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg\" alt=\"A tabby cat resting on a patterned blanket with patches of light filtering through an object with circular cut-outs, casting a pattern of shadows over the scene.\"></a></p>\n",
+				"content_text": "[![A tabby cat resting on a patterned blanket with patches of light filtering through an object with circular cut-outs, casting a pattern of shadows over the scene.](https://cdn.uploads.micro.blog/1406/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg)](https://cdn.uploads.micro.blog/1406/2024/254a8ece-edfb-4241-ae79-7f6e696528b0.jpg)\n\n",
 				"date_published": "2024-02-12T12:04:32-07:00",
 				"url": "https://samgrover.com/2024/02/12/110432.html"
 			},
